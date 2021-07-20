@@ -16,4 +16,6 @@ Task 3<br />
   
  The file Task1.java pertains to Task 1. <br />
  The file Task2.java pertains to Task 2.<br />
- The files Task3.java, HttpConnectionWorkerThread.java and ServerListenerThread.java pertain to Task 3.
+ The files Task3.java, HttpConnectionWorkerThread.java and ServerListenerThread.java pertain to Task 3.<br />
+ All of these files can be found in the src folder under 4C test. 
+ 
