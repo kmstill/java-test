@@ -1,4 +1,4 @@
-# java-basics
+# java-test
 This is for a test I completed on java file IO and creating a simple HTTP Server. 
 
 To run the application for each task, simply run the main method of Task1.java, Task2.java, and Task3.java
